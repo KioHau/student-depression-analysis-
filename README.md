@@ -18,7 +18,11 @@ The main objective is to understand how demographic, academic, financial, social
 
 ## 3. Dataset
 
-- **Dataset:** Student Depression Dataset
+The dataset used in this project was obtained from Kaggle.
+
+- **Dataset Name:** Student Depression Detection Dataset
+- **Source:** [Kaggle – Student Depression Detection Dataset](https://www.kaggle.com/datasets/mkhoirulmustaqim/student-depression-detection-dataset/data)
+- **Platform:** Kaggle
 - **Total Records:** 4,464 students
 - **Target Variable:** Depression
 - **Analysis Table:** `Student_Cleaned`
@@ -32,6 +36,10 @@ The dataset contains student-related information, including:
 - Relationship status
 - Friend circle
 - Health conditions
+
+Please download the original dataset from Kaggle before running the SQL scripts.
+
+**Note:** The database and cleaned table are not included in this repository. Users need to import the dataset and execute the SQL scripts to reproduce the analysis.
 
 ## 4. Tools & Technologies
 
